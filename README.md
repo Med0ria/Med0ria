@@ -24,7 +24,7 @@
 - Developed full-featured apps, tools, and games used by real communities.
 - Worked on **3D experiences**, UI systems, and automation logic.
 - **Islands** – Multiplayer builder with land/resource control.  
-  [🔗 Play Islands »](https://www.roblox.com/games/placeholder-link)
+  [🔗 Play Islands »](https://www.roblox.com/games/placeholder-link](https://www.roblox.com/games/4872321990/Islands))
 - **The FarLands** – Procedural terrain, survival challenges, and mechanics.  
   [🔗 Play The FarLands »](https://www.roblox.com/games/placeholder-link)
 - Constantly pushing creative limits through design + code synergy.
@@ -53,22 +53,22 @@ HTML/CSS    ★★★☆☆
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:elfoulyahmed18@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/yourusername" target="_blank">
+  <a href="https://x.com/med0riia" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.twitch.tv/yourtwitchname" target="_blank">
+  <a href="https://www.twitch.tv/Med0riia" target="_blank">
     <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  <a href="https://www.roblox.com/users/yourid/profile" target="_blank">
+  <a href="https://www.roblox.com/users/1247586667/profile" target="_blank">
     <img alt="Roblox" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+  <a href="https://discord.com/users/848984471477944381" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/medoria._42" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
