@@ -15,7 +15,8 @@
 - Currently diving into **Cybersecurity** and **ethical hacking**.
 - **Twitch Affiliate** and active content creator.
 - Known for creativity, quick learning, and high-impact projects.
-- **Job applications hater :)**
+- **Job applications Hater :)**
+- **Fun Fact**: "Not everyone joins ur world stays."
 
 ---
 
@@ -31,11 +32,12 @@
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-- Cybersecurity – *Nearly Soon*
-- Ethical Hacking – *Nearly Soon*
-- Programming Fundamentals – *Nearly Soon*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medoria&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medoria&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
