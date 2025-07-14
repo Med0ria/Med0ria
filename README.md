@@ -38,28 +38,43 @@ Python      ★★★★★
 Lua         ★★★★☆
 JavaScript  ★★★☆☆
 HTML/CSS    ★★★☆☆
-
-
-📜 Certifications
-
-Cybersecurity – Nearly Soon
-Ethical Hacking – Nearly Soon
-Programming Fundamentals – Nearly Soon
-
-
-🌐 Connect with Me
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
-
-
-Fun Fact: "Not everyone joins ur world stays."
 ```
+
+---
+
+## 📜 Certifications
+
+- Cybersecurity – Nearly Soon  
+- Ethical Hacking – Nearly Soon  
+- Programming Fundamentals – Nearly Soon  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/yourusername" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/yourtwitchname" target="_blank">
+    <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://www.roblox.com/users/yourid/profile" target="_blank">
+    <img alt="Roblox" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎉 Fun Fact
+
+**"Not everyone joins ur world stays."**
